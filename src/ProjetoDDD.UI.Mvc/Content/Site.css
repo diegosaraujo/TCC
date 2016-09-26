@@ -1,0 +1,69 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.navbar-inverse{
+    background-color: #EEF2F8;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
+    color: #000;
+
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #000;
+
+}
+
+navbar-inverse .navbar-nav > li > a {
+    color: #000;
+}
+
+.img-home > img {
+    height: 307px;
+}
+
+.img-home {
+    height: 308px;
+}
+
+.background-temas {
+
+    border-radius: 375px;
+    text-align: center;
+    background: #EEF2F8;
+    width: 117px;
+    padding: 5px;
+    margin: 10px;
+    align-content: center;
+    margin-top: 20px;
+    margin-left: 112px;
+    font-size: 47px;
+}
+
+.button-saiba-mais {
+    margin-left: 114px;
+    margin-top: 30px;
+}
